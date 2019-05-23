@@ -38,7 +38,7 @@ Results are passed to standard out. Pipe them to a file with pipes.
 
     python img_urls.py an island with a boat next to it > Island_boat_urls.txt
 
-### output
+### Output
 
 The script prints the URL and then caption followed by a newline, and possibly more images.
 
